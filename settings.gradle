@@ -1,2 +1,3 @@
+include ':JavaRecap'
 include ':app'
 rootProject.name = "JavaAndroTestApp"
